@@ -1,7 +1,6 @@
 # Escomponentiannidati
 
-Creare una Angular Application composta solamente da una home page statica raggiungibile all'indirizzo url localhost:4200.
-
+Traccia esercizio : Creare una Angular Application composta solamente da una home page statica raggiungibile all'indirizzo url localhost:4200.
 
 Tale home page dovrà essere strutturata mediante:
 • navbar superiore
